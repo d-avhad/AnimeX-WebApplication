@@ -12,6 +12,7 @@ This Web App includes use of:
 # How to run the web application:
 # 1. By downloading code base and running locally.
 1. I have installed all npm modules like bootstrap and jest. So simply download the code base from git including node_modules & on terminal run command:
+    # cd animex\backend-nodejs
     # npm start 
    then in browser like google chrome open http://localhost:8080/ 
    
