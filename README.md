@@ -1,3 +1,5 @@
+#### Latest update: AnimeChan has temporarily suspended their API's.  To see the actual working of project please see youtube video, as the api was working then.
+
 # AnimeX-WebApplication  :   YouTube link : https://www.youtube.com/watch?v=6dZF_f-8rdQ&ab_channel=DeepaAvhad
 Web Application that includes different anime quotes, game quiz, quote generator.
 This Web App includes use of:
